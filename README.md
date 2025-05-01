@@ -1,2 +1,2 @@
 # Description
-A basic N-slit diffraction sim
+A basic jupyter-notebook N-slit diffraction sim
